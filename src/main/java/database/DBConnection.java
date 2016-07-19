@@ -61,7 +61,7 @@ public class DBConnection {
     public DBConnection() {
         try {
 
-            String s = "jdbc:mysql://127.2.141.2:3306/studentmanager";
+            String  s = "jdbc:mysql://127.2.141.2:3306/studentmanager";
 
             try {
                 Class.forName("com.mysql.jdbc.Driver");
