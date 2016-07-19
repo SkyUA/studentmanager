@@ -1,0 +1,73 @@
+a, a:visited, a:active {
+    color: blue;
+}
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+thead, caption {
+    padding: 15px;
+    font-weight: bold;
+    background-color: rgb(230, 230, 230);
+}
+td {
+    width: 11%;
+    height: 11%;
+    padding: 5px;
+    border: 1px solid #000;
+    background-color: rgb(200, 200, 200);
+}
+table.main, td.main{
+    background-color: white;
+    border: 1px solid #FFF;
+}
+.td_head {
+    background-color: rgb(150, 150, 150);
+}
+.input_text {
+    color: silver;
+}
+.dekanat_menu {
+    float: left;
+    height: 40px;
+    font-weight: bold;
+    background-color: rgb(150, 150, 150);
+}
+#dekanat_menu {
+    height: 40px;
+}
+#dekanat_menu1 {
+    width: 33%;
+}
+#dekanat_menu2 {
+    width: 34%;
+}
+#dekanat_menu3 {
+    width: 33%;
+}
+#dekanat_inputs_div {
+    text-align: left;
+}
+#main_panel {
+    padding: 5px;
+    border: 1px solid #000;
+    background-color: rgb(230, 230, 230);
+}
+#ragistration_radio {
+    width: 180px;
+    height: 100px;
+    margin: auto;
+    text-align: left;
+}
+#welcome {
+    text-align: center;
+    color: blue;
+}
+#warning {
+    text-align: center;
+    color: red;
+}
+
+
+
